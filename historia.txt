@@ -4,3 +4,5 @@ EDAD: 21 year
 
 Objetuvis: poder tener muchos conocimientos 
 sobre tegnologia.
+Metas: Tenes la capacidad de programara y analizar
+
